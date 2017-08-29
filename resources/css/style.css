@@ -1,0 +1,41 @@
+html {
+  font-family: verdana;
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+h1 {
+  font-family: verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: inherit;
+  text-align: inherit;
+}
+h2 {
+  font-family: verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  text-align: inherit;
+}
+h3 {
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
+}
+h5 {
+  font-family: verdana;
+  color: gray;
+  font-size: 12px;
+  text-align: right;
+  padding-right: 10px;
+}
+div {
+  margin: 20px;
+}
+a {font-family: verdana;
+  font-style: underline;
+  color: aquamarine;
+  font-size: 16px;
+  text-align: inherit;
+}
